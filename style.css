@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    background-image: url(PJ\ 3.jpg);
+    text-align:center;
+    padding-top: 275px;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Spectral', serif;
+
+}
+
+h1 {
+  font-size: 64px;
+  line-height: 120px;
+  color: white;
+  font-family: 'Beth Ellen', cursive;
+}
+h1 span {
+    color: #5EEAD4;
+}
+
+p {
+    color: #EBF1FB;
+    font-size: 20px;
+}
+
+a {
+    color: #EBF1FB;
+    border-radius: 8px;
+    padding:16px 32px;
+    line-height: 200px;
+    font-size:24px;
+
+}
+
+.btn-c {
+    background-color: #5EEAD4;
+    color: black;
+    text-decoration: none;
+    
+}
